@@ -1,13 +1,23 @@
 My first committing file in GIT Session
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 •	Commit the code by running the command: git commit –m “committing the local changes”
 Push the code to the remote repo by running the command git push origin master
 •	Commit the code by running the command: git commit –m “committing the local changes”
 Push the code to the remote repo by running the command git push origin master
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 •	Commit the code by running the command: git commit –m “committing the local changes”
 Push the code to the remote repo by running the command git push origin master
 •	Commit the code by running the command: git commit –m “committing the local changes”
 Push the code to the remote repo by running the command git push origin master
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
